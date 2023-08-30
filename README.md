@@ -18,4 +18,4 @@ Develop a system to predict heart attacks in an effective manner
 * List how the other factors determine the occurrence of CVD
 * Use a pair plot to understand the relationship between all the given variables
 
-# Build a baseline model to predict the risk of a heart attack using a logistic regression and random forest and explore the results while using correlation analysis and logistic regression (leveraging standard error and p-values from statsmodels) for feature selection
+Build a baseline model to predict the risk of a heart attack using a logistic regression and random forest and explore the results while using correlation analysis and logistic regression (leveraging standard error and p-values from statsmodels) for feature selection
